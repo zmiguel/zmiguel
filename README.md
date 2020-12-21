@@ -26,6 +26,12 @@
 <h3 align="left">Recent Activity:</h3>
 <p>
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1549](https://github.com/authelia/authelia/issues/1549) in [authelia/authelia](https://github.com/authelia/authelia)
+2. 💪 Opened PR [#1549](https://github.com/authelia/authelia/pull/1549) in [authelia/authelia](https://github.com/authelia/authelia)
+3. 🎉 Merged PR [#4](https://github.com/zmiguel/chihaya/pull/4) in [zmiguel/chihaya](https://github.com/zmiguel/chihaya)
+4. 💪 Opened PR [#4](https://github.com/zmiguel/chihaya/pull/4) in [zmiguel/chihaya](https://github.com/zmiguel/chihaya)
+5. ❌ Closed PR [#3](https://github.com/zmiguel/chihaya/pull/3) in [zmiguel/chihaya](https://github.com/zmiguel/chihaya)
+<!--END_SECTION:activity-->
 </p><br><br>
 
 <h3 align="left">Support:</h3>
