@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José Valdiviesso</h1>
-<h3 align="center">I'm a CS student from Coimbra, Portugal</h3>
+<h3 align="center">I'm a SysAdmin from Coimbra, Portugal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zmiguel&label=Profile%20views&color=0e75b6&style=flat" alt="zmiguel" /> </p>
 
